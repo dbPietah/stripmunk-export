@@ -1,4 +1,4 @@
-#Stripmunk Export
+# Stripmunk Export
 
 ## About
 Adds an export button to [the series page on stripmunk](https://app.stripmunk.be/series) which lets you export all entries in a series to csv. This
