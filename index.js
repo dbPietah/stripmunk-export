@@ -3,10 +3,10 @@
 // @name:nl      Stripmunk Exporteren
 // @namespace    http://tampermonkey.net/
 // @version      1
-// @description  Allows to export all entries in one single collection to CSV in excel format.
-// @description:nl Exporteer alle strips in een collectie naar een CSV bestand dat in excel gelezen kan worden.
+// @description  Adds an export button to stripmunk.be series page which exports all the entries to CSV that can easily be imported in Excel
+// @description:nl Voegt een knop toe in de "series" pagina van stripmunk.be waarmee de lijst naar CSV geëxporteerd kan worden om te importeren in Excel.
 // @author       dbPieter
-// @match        https://app.stripmunk.be/series/11749
+// @match        https://app.stripmunk.be/series/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=stripmunk.be
 // @grant        none
 // ==/UserScript==
