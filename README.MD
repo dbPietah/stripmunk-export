@@ -8,7 +8,7 @@ csv uses `;` delimiter which is compatible with Excel.
 Runs in any browser that allows userscripts
 
 ## How to install
-TODO: link to greasyfork
+[Install the userscript in your favorite brower](https://greasyfork.org/en/scripts/588244-stripmunk-exporter)
 
 ## How to use
 1. Go to [the series page on stripmunk](https://app.stripmunk.be/series) 
